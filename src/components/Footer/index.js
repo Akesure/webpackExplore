@@ -1,12 +1,12 @@
-import React, { Component } from 'react'
-import './index.css'
+import React, { Component } from "react";
+import "./index.css";
 
 class Footer extends Component {
-    render() {
-        return <div>
+	render() {
+		return <div>
             <h1 className="footer"> 我是footer </h1>
-        </div>
-    }
+        </div>;
+	}
 }
 
-export default Footer
+export default Footer;
